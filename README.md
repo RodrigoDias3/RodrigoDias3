@@ -13,10 +13,10 @@ I’m passionate about **problem-solving, software architecture, and developing 
 ---
 
 ## **🛠 Tech Stack**  
-💻 **Languages:** Java, C, Python, Kotlin, SQL
-⚙️ **Frameworks & Tools:** Spring Boot, Django, GitHub, Jira, OutSystems
-🗄 **Databases:** MongoDB, MySQL  
-🔍 **Monitoring:** DataDog  
+- 💻 **Languages:** Java, C, Python, Kotlin, SQL
+- ⚙️ **Frameworks & Tools:** Spring Boot, Django, GitHub, Jira, OutSystems
+- 🗄 **Databases:** MongoDB, MySQL  
+- 🔍 **Monitoring:** DataDog  
 
 ---
 
