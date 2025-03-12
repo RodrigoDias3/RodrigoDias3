@@ -41,8 +41,6 @@ I’m passionate about **problem-solving, software architecture, and developing 
 - **[BlackJack]()** – A digital version of the classic card game with enhanced gameplay mechanics.  
 - **[FinanceTier]()** – A finance tracking application to help users manage expenses and investments.  
 
-_(Add links to projects where available.)_  
-
 ---
 
 ## **💼 Experience**  
