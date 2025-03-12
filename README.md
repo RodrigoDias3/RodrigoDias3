@@ -137,8 +137,21 @@ At the request of Professor Rui Ribeiro from the University, I developed an appl
 ---
 
 ### **💡 Personal Projects**  
-- **[BlackJack]()** – A digital version of the classic card game with enhanced gameplay mechanics.  
-- **[FinanceTier]()** – A finance tracking application to help users manage expenses and investments.  
+- **[BlackJack]()** \
+A digital version of the classic card game with enhanced gameplay mechanics.  \
+Project developed with `HTML`, `CSS`, `JavaScript`.
+
+  👉🏻 Explore here: **[Site](https://rodrigodias3.github.io/BlackJack/)** | **[Repository](https://github.com/RodrigoDias3/BlackJack)**
+- **[FinanceTier]()** \
+ Faced with a problem of how to manage my expenses and my money, I started to develop an application that would manage my transactions and in the end I also ended up making salary calculations according to the tax tables in Portugal as well as report charts. \
+ Project developed with `Spring Boot`, `MySQL`, `Java`, `JavaScript` ,`BoorStrap`.
+
+  👉🏻 Explore here: **[Repository]()**
+- **[Movie DB]()** \
+ Movie API and frontend application that shows movies in a catalog. \
+ Project developed with `Spring Boot`, `Java`, `MongoDB`, `React`, `JavaScript`.
+
+  👉🏻 Explore here: **[Repository]()**
 
 ---
 
