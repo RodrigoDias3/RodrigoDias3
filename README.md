@@ -15,7 +15,7 @@ I’m passionate about **problem-solving, software architecture, and developing 
 ---
 
 ## **🛠 Tech Stack**  
-- 💻 **Languages:** 
+- 💻 **Programming Languages:** 
   - Java
   - Kotlin
   - C
@@ -45,7 +45,7 @@ I’m passionate about **problem-solving, software architecture, and developing 
 **Ambassador** \
 [**Magma Studio**](https://magmastudio.pt/) • Full-time \
 
-Tecnologias & Skills: `LinkedIn`, `Comunication`, `Public Relations`\
+Technology & Skills: `LinkedIn`, `Comunication`, `Public Relations`\
 Time-Line: 2025-Now
 <br/>
 
@@ -54,7 +54,7 @@ Time-Line: 2025-Now
 **Comunication Team Leader** \
 [**NEDI**](https://nedi.pythonanywhere.com/) • Full-time \
 
-Tecnologias & Skills: `Django`, `Site Management`, `Comunication`, `Public Relations`, `Events`\
+Technology & Skills: `Django`, `Site Management`, `Comunication`, `Public Relations`, `Events`\
 Time-Line: 2024-Now
 <br/>
 
@@ -63,7 +63,7 @@ Time-Line: 2024-Now
 **Comunication Team** \
 [**DEISI**](https://informatica.ulusofona.pt/) • Full-time \
 
-Tecnologias & Skills: `Django`, `WordPress`, `Site Management`, `Comunication`\
+Technology & Skills: `Django`, `WordPress`, `Site Management`, `Comunication`\
 Time-Line: 2024-Now
 <br/>
 
@@ -72,7 +72,7 @@ Time-Line: 2024-Now
 **Summer Intern** \
 [**DEISI**](https://www.vodafone.pt/) • Full-time \
 
-Tecnologias & Skills: `Spring Boot`, `Java`, `MongoDB`, `Jira`, `Team Work`\
+Technology & Skills: `Spring Boot`, `Java`, `MongoDB`, `Jira`, `Team Work`\
 Time-Line: 2024 (2 months)
 <br/>
 
@@ -82,7 +82,7 @@ Time-Line: 2024 (2 months)
 **Talent BootCamp** \
 [**Magma Studio**](https://magmastudio.pt/)
 
-Tecnologias & Skills: `CV`, `Comunication`\
+Technology & Skills: `CV`, `Comunication`\
 Time-Line: 2024 (2 days)
 <br/>
 
@@ -92,7 +92,7 @@ Time-Line: 2024 (2 days)
 **Java & Spring Boot Workshop** \
 [**CGI Portugal**](https://www.cgi.com/portugal/pt-pt) 
 
-Tecnologias & Skills: `Spring Boot`, `Java`, `RESTful APIs`, `API integration` \
+Technology & Skills: `Spring Boot`, `Java`, `RESTful APIs`, `API integration` \
 Time-Line: 2024 (1 week)
 <br/>
 
@@ -101,7 +101,7 @@ Time-Line: 2024 (1 week)
 **Hands-on Workshop** \
 [**OutSystems**](https://www.outsystems.com/) 
 
-Tecnologias & Skills: `OutSystems`, `App development`, `Data Base`\
+Technology & Skills: `OutSystems`, `App development`, `Data Base`\
 Time-Line: 2024 (1 week)
 <br/>
 
