@@ -1,4 +1,6 @@
 # **Rodrigo Dias** 👨‍💻  
+**Comuncation Team Leader @Nedi | Ambassador @Magma Studio | Head of Robotics Departement @Nedi**
+
 **Software Developer | Backend Specialist | Tech Enthusiast**  
 
 🌍 Lisbon, Portugal | 📩 rodrigo.dias.2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias3/)  
@@ -13,10 +15,95 @@ I’m passionate about **problem-solving, software architecture, and developing 
 ---
 
 ## **🛠 Tech Stack**  
-- 💻 **Languages:** Java, C, Python, Kotlin, SQL
-- ⚙️ **Frameworks & Tools:** Spring Boot, Django, GitHub, Jira, OutSystems
-- 🗄 **Databases:** MongoDB, MySQL  
-- 🔍 **Monitoring:** DataDog  
+- 💻 **Languages:** 
+  - Java
+  - Kotlin
+  - C
+  - Python
+  - Dart
+  - JavaScript
+- ⚙️ **Frameworks & Tools:** 
+  - Spring Boot
+  - Django 
+  - GitHub
+  - Jira 
+  - BootStrap 
+  - Thymeleaf 
+  - Azure DevOps 
+  - OutSystems 
+  - DataDog 
+  - Jenkins  
+- 🗄 **Databases:** 
+  - MongoDB
+  - MySQL  
+---
+
+## **💼 Experience** 
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d1fdloi71mui9q.cloudfront.net/JNNU2iyCSi6e4JY7m0TV_ZtgpjUJkW6EreVUD" style="margin-right: 10px; border-radius: 50%;"/>](https://magmastudio.pt/)
+
+**Ambassador** \
+[**Magma Studio**](https://magmastudio.pt/) • Full-time \
+
+Tecnologias & Skills: `LinkedIn`, `Comunication`, `Public Relations`\
+Time-Line: 2025-Now
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nedi.pythonanywhere.com/static/portefolio/imgs/logo.png" style="margin-right: 10px; border-radius: 50%;"/>](https://nedi.pythonanywhere.com/)
+
+**Comunication Team Leader** \
+[**NEDI**](https://nedi.pythonanywhere.com/) • Full-time \
+
+Tecnologias & Skills: `Django`, `Site Management`, `Comunication`, `Public Relations`, `Events`\
+Time-Line: 2024-Now
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nedi.pythonanywhere.com/static/portefolio/imgs/deisi.jpeg" style="margin-right: 10px;border-radius: 50%;"/>](https://informatica.ulusofona.pt/)
+
+**Comunication Team** \
+[**DEISI**](https://informatica.ulusofona.pt/) • Full-time \
+
+Tecnologias & Skills: `Django`, `WordPress`, `Site Management`, `Comunication`\
+Time-Line: 2024-Now
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://th.bing.com/th/id/OIP.R_kZkEgTJE_RHqNoOVAe4AHaHc?w=2039&h=2048&rs=1&pid=ImgDetMain" style="border-radius: 50%; margin-right: 10px;"/>](https://www.vodafone.pt/)
+
+**Summer Intern** \
+[**DEISI**](https://www.vodafone.pt/) • Full-time \
+
+Tecnologias & Skills: `Spring Boot`, `Java`, `MongoDB`, `Jira`, `Team Work`\
+Time-Line: 2024 (2 months)
+<br/>
+
+## **✏️ Workshops** 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d1fdloi71mui9q.cloudfront.net/JNNU2iyCSi6e4JY7m0TV_ZtgpjUJkW6EreVUD" style="margin-right: 10px; border-radius: 50%;"/>](https://magmastudio.pt/)
+
+**Talent BootCamp** \
+[**Magma Studio**](https://magmastudio.pt/)
+
+Tecnologias & Skills: `CV`, `Comunication`\
+Time-Line: 2024 (2 days)
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQErzXWSFkn9tQ/company-logo_100_100/company-logo_100_100/0/1663664110809/cgi_logo?e=1749686400&v=beta&t=5tM7s7P9hQMqcJTNMJPNp2-5fvQJL6ICydJJkJdosAs" style="border-radius: 50%; margin-right: 10px;"/>](https://www.cgi.com/portugal/pt-pt)
+
+**Java & Spring Boot Workshop** \
+[**CGI Portugal**](https://www.cgi.com/portugal/pt-pt) 
+
+Tecnologias & Skills: `Spring Boot`, `Java`, `RESTful APIs`, `API integration` \
+Time-Line: 2024 (1 week)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4E0BAQFAUPTkiqMqqA/company-logo_200_200/company-logo_200_200/0/1685646588896/outsystems_logo?e=1749686400&v=beta&t=jOVkKq0ZAFD-YwJHF6mn8NQL4cPV6_CYsQsCiZosb20" style="border-radius: 50%; margin-right: 10px;"/>](https://www.outsystems.com/)
+
+**Hands-on Workshop** \
+[**OutSystems**](https://www.outsystems.com/) 
+
+Tecnologias & Skills: `OutSystems`, `App development`, `Data Base`\
+Time-Line: 2024 (1 week)
+<br/>
 
 ---
 
@@ -40,16 +127,6 @@ I’m passionate about **problem-solving, software architecture, and developing 
 ### **💡 Personal Projects**  
 - **[BlackJack]()** – A digital version of the classic card game with enhanced gameplay mechanics.  
 - **[FinanceTier]()** – A finance tracking application to help users manage expenses and investments.  
-
----
-
-## **💼 Experience**  
-- **Vodafone | Summer Internship (2024)**  
-  - Backend & Microservices Development  
-- **CGI Portugal | Java & Spring Boot Workshop (2024)**  
-  - RESTful APIs & external API integration  
-- **Sourceful | OutSystems Hands-on Workshop (2024)**  
-  - App development & database creation  
 
 ---
 
