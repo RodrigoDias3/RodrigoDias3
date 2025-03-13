@@ -110,11 +110,11 @@ Time-Line: 2024 (1 week)
 ## **📌 Projects**  
 
 ### **🔹 Extra-Curricular Projects**  
-- **[NEDI]()** \
-NEDI - Lusófona University Computer Science Department Student Group
-
+- **[NEDI - Lusófona University Computer Science Department Student Group]()** \
   Leading the Communications team, I thought I'd develop a website that would give our group exposure. \
   Developed with `Django`, `HTML`, `BootStrap`
+  
+  <img align="center" alt="NEDI" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/nedi.png"/>
 
   👉🏻 Site here: [NEDI](https://nedi.pythonanywhere.com/)
 - **[JobShop]()** \
@@ -122,6 +122,8 @@ As part of NEDI, we felt that our students needed something to expand their oppo
 
   I also developed a website for this event. \
   Developed with `Django`, `HTML`, `BootStrap`
+  
+  <img align="center" alt="NEDI" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/jobshop.png"/>
 
   👉🏻 Site here: [JobShop](https://nedi.pythonanywhere.com/jobshop/)
 - **[TecWeb - Innovation Training and Lecture Week]()** \
@@ -132,6 +134,9 @@ At the request of Professor Rui Ribeiro from the University, I developed an appl
   It also provides an API to extract data for participating companies. \
   Developed with `Django`, `HTML`, `BootStrap`
 
+  <img alt="Tecweb1" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tecweb-1.png"/>
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tecweb2.png"/>
+
   👉🏻 Site here: [Tecweb](https://tecweb.ulusofona.pt/about/)
 
 ---
@@ -141,10 +146,14 @@ At the request of Professor Rui Ribeiro from the University, I developed an appl
 A digital version of the classic card game with enhanced gameplay mechanics.  \
 Project developed with `HTML`, `CSS`, `JavaScript`.
 
+  <img alt="BlackJack" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/blackjack.png"/>
+
   👉🏻 Explore here: **[Site](https://rodrigodias3.github.io/BlackJack/)** | **[Repository](https://github.com/RodrigoDias3/BlackJack)**
 - **[FinanceTier]()** \
  Faced with a problem of how to manage my expenses and my money, I started to develop an application that would manage my transactions and in the end I also ended up making salary calculations according to the tax tables in Portugal as well as report charts. \
  Project developed with `Spring Boot`, `MySQL`, `Java`, `JavaScript` ,`BoorStrap`.
+
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/financetier1.png"/>
 
   👉🏻 Explore here: **[Repository]()**
 - **[Movie DB]()** \
