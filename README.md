@@ -171,23 +171,9 @@ End-of-course project, in collaboration with the Human Resources department.
   Application to identify competencies in the college's students and teachers. Integrating faculty login, **LLM** for **Natural Language Processing**. \
   Project developed with `Spring Boot` and `Kotlin`.
 
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tfc.png"/>
+
   👉🏻 See more here: [Repository]()
-
-- **[Tent Game (FP)](https://github.com/RodrigoDias3/Jogo_Das_Tendas)** \
-My first programming project, developed in the Fundamentals of Programming course in my first year at university.
-
-  A simple but very fun puzzle game, where you have to make sure that all the tiles are placed on the board following certain rules. \
-  Project developed in `Kotlin`.
-
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Jogo_Das_Tendas)
-
-- **[Port Manager (LP1)](https://github.com/RodrigoDias3/Gestor_Portos)** \
-This is a project developed as part of the Programming Languages 1 course.
-
-  The Port Manager is an application designed to assist in the management and monitoring of activities in maritime ports. Through this application, users can view relevant information, manage resources, and make informed decisions to optimize port operations. \
-  Project developed in `C`.
-
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Gestor_Portos)
 
 - **[DEISI Chess (LP2)]()** \
 Project developed within the scope of Programming Languages 2 course. This was a special project for the final grade of 19.9/20.
@@ -195,7 +181,29 @@ Project developed within the scope of Programming Languages 2 course. This was a
   A **Chess Game** with a graphic interface, the theme was **StarWars**. With proposed moves and **Special Pieces** as part of the creativity module. \
   Project developed in `Java` using `Object Oriented Programming`.
 
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/deisi-chess.png"/>
+
   👉🏻 See more here: [Repository]()
+
+- **[Chess Recognition (PI)]()** \
+In the Image Processing course we developed an algorithm that identifies a chessboard from an image. It identifies the pieces and their positions on the board.
+
+  We developed a graphical interface to visualize the results. \
+  Project developed in `C#`.
+
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/imagem.png"/>
+
+  👉🏻 See more here: [Repository]()
+
+- **[Smart Home (AAC)]()** \
+In the Advanced Computer Architecture course, we proposed and developed a prototype of a **Smart Home**.
+
+  Combining **programming** techniques and the **assembly of circuits** integrating sensors and intelligent mechanisms. \
+  Project developed with `Arduino` and `C++`
+
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/casa.jpg"/>
+
+  👉🏻 See more here: [Repository]() 
 
 - **[Spring Elsa (CD)]()** \
 Project developed as part of the Distributed Computing course.
@@ -206,35 +214,42 @@ Project developed as part of the Distributed Computing course.
   We implemented a **Chat Bot** named Elsa that showed us the most appropriate clinic depending on our symptoms. And we used **Google Cloud Service** to implement a method of evaluating our application according to user comments. \
   Project developed with `Java`, `Spring Boot`, `HTML`, `BootStrap`, `SOAP`.
 
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/elsa.png"/>
+
   👉🏻 See more here: [Repository]()
 
 - **[Spotily/Weather (PW)]()** \
 In **Web Programming** we develop several applications. I'd like to highlight these two because they're the ones I liked the most.
 
   - **Spotily** - Music and album management application, with an attractive interface and an Admin option to manage the database. Inspired by Spotify. \
+    <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/spotily.png"/>
     👉🏻 See more here: [Site](https://a22205897.pythonanywhere.com/bandas/)
 
   - **Weather Radar** - Application for viewing Portugal's weather conditions, color-coded according to the weather, with an integrated API. \
+    <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/meteo.png"/>
     👉🏻 See more here: [Site](https://a22205897.pythonanywhere.com/meteo/)
 
   Projects developed with `HTML`, `CSS`, `JavaScript`, `Django`, `Python Anywhere`.
 
+- **[Tent Game (FP)](https://github.com/RodrigoDias3/Jogo_Das_Tendas)** \
+My first programming project, developed in the Fundamentals of Programming course in my first year at university.
 
-- **[Chess Recognition (PI)]()** \
-In the Image Processing course we developed an algorithm that identifies a chessboard from an image. It identifies the pieces and their positions on the board.
+  A simple but very fun puzzle game, where you have to make sure that all the tiles are placed on the board following certain rules. \
+  Project developed in `Kotlin`.
 
-  We developed a graphical interface to visualize the results. \
-  Project developed in `C#`.
+  <img align="center" alt="NEDI" height="500px" src="https://raw.githubusercontent.com/RodrigoDias3/Jogo_Das_Tendas/refs/heads/main/img2.png"/>
 
-  👉🏻 See more here: [Repository]()
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Jogo_Das_Tendas)
 
-- **[Smart Home (AAC)]()** \
-In the Advanced Computer Architecture course, we proposed and developed a prototype of a **Smart Home**.
+- **[Port Manager (LP1)](https://github.com/RodrigoDias3/Gestor_Portos)** \
+This is a project developed as part of the Programming Languages 1 course.
 
-  Combining **programming** techniques and the **assembly of circuits** integrating sensors and intelligent mechanisms. \
-  Project developed with `Arduino` and `C++`
+  The Port Manager is an application designed to assist in the management and monitoring of activities in maritime ports. Through this application, users can view relevant information, manage resources, and make informed decisions to optimize port operations. \
+  Project developed in `C`.
 
-  👉🏻 See more here: [Repository]() 
+  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/gestor_portos.png"/>
+
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Gestor_Portos)
 
 ---
 
