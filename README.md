@@ -185,7 +185,7 @@ Project developed within the scope of Programming Languages 2 course. This was a
 
   👉🏻 See more here: [Repository]()
 
-- **[Chess Recognition (PI)]()** \
+- **[Chess Recognition (PI)](https://github.com/RodrigoDias3/ChessIdentifier)** \
 In the Image Processing course we developed an algorithm that identifies a chessboard from an image. It identifies the pieces and their positions on the board.
 
   We developed a graphical interface to visualize the results. \
@@ -193,7 +193,7 @@ In the Image Processing course we developed an algorithm that identifies a chess
 
   <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/imagem.png"/>
 
-  👉🏻 See more here: [Repository]()
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/ChessIdentifier) | [Youtube Video](https://youtu.be/g9NelrHHkfE)
 
 - **[Smart Home (AAC)](https://github.com/RodrigoDias3/Casa_Inteligente)** \
 In the Advanced Computer Architecture course, we proposed and developed a prototype of a **Smart Home**.
