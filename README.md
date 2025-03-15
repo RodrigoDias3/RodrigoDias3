@@ -195,7 +195,7 @@ In the Image Processing course we developed an algorithm that identifies a chess
 
   👉🏻 See more here: [Repository]()
 
-- **[Smart Home (AAC)]()** \
+- **[Smart Home (AAC)](https://github.com/RodrigoDias3/Casa_Inteligente)** \
 In the Advanced Computer Architecture course, we proposed and developed a prototype of a **Smart Home**.
 
   Combining **programming** techniques and the **assembly of circuits** integrating sensors and intelligent mechanisms. \
@@ -203,7 +203,7 @@ In the Advanced Computer Architecture course, we proposed and developed a protot
 
   <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/casa.jpg"/>
 
-  👉🏻 See more here: [Repository]() 
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Casa_Inteligente) 
 
 - **[Spring Elsa (CD)]()** \
 Project developed as part of the Distributed Computing course.
