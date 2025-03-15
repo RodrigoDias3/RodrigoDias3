@@ -203,7 +203,7 @@ In the Advanced Computer Architecture course, we proposed and developed a protot
 
   <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/casa.jpg"/>
 
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Casa_Inteligente) 
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Casa_Inteligente) | [Youtube Video](https://youtu.be/BLi2EhJKlts)
 
 - **[Spring Elsa (CD)]()** \
 Project developed as part of the Distributed Computing course.
