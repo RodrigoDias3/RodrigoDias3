@@ -142,7 +142,7 @@ At the request of Professor Rui Ribeiro from the University, I developed an appl
 ---
 
 ### **💡 Personal Projects**  
-- **[BlackJack]()** \
+- **[BlackJack](https://github.com/RodrigoDias3/BlackJack)** \
 A digital version of the classic card game with enhanced gameplay mechanics.  \
 Project developed with `HTML`, `CSS`, `JavaScript`.
 
@@ -175,7 +175,7 @@ End-of-course project, in collaboration with the Human Resources department.
 
   👉🏻 See more here: [Repository]()
 
-- **[DEISI Chess (LP2)]()** \
+- **[DEISI Chess (LP2)](https://github.com/RodrigoDias3/StarWarsChess)** \
 Project developed within the scope of Programming Languages 2 course. This was a special project for the final grade of 19.9/20.
 
   A **Chess Game** with a graphic interface, the theme was **StarWars**. With proposed moves and **Special Pieces** as part of the creativity module. \
@@ -183,7 +183,7 @@ Project developed within the scope of Programming Languages 2 course. This was a
 
   <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/deisi-chess.png"/>
 
-  👉🏻 See more here: [Repository]()
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/StarWarsChess) |
 
 - **[Chess Recognition (PI)](https://github.com/RodrigoDias3/ChessIdentifier)** \
 In the Image Processing course we developed an algorithm that identifies a chessboard from an image. It identifies the pieces and their positions on the board.
