@@ -165,7 +165,7 @@ Project developed with `HTML`, `CSS`, `JavaScript`.
 ---
 
 ### **🎓 University Projects**  
-- **[Skills Profile (TFC)]()** \
+- **[Skills Profile (TFC)](https://github.com/RodrigoDias3/PerfilCompetencias)** \
 End-of-course project, in collaboration with the Human Resources department. 
 
   Application to identify competencies in the college's students and teachers. Integrating faculty login, **LLM** for **Natural Language Processing**. \
@@ -173,7 +173,7 @@ End-of-course project, in collaboration with the Human Resources department.
 
   <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tfc.png"/>
 
-  👉🏻 See more here: [Repository]()
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/PerfilCompetencias)
 
 - **[DEISI Chess (LP2)](https://github.com/RodrigoDias3/StarWarsChess)** \
 Project developed within the scope of Programming Languages 2 course. This was a special project for the final grade of 19.9/20.
