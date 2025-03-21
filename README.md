@@ -110,14 +110,14 @@ Time-Line: 2024 (1 week)
 ## **📌 Projects**  
 
 ### **🔹 Extra-Curricular Projects**  
-- **[NEDI - Lusófona University Computer Science Department Student Group]()** \
+- **[NEDI - Lusófona University Computer Science Department Student Group](https://nedi.pythonanywhere.com/)** \
   Leading the Communications team, I thought I'd develop a website that would give our group exposure. \
   Developed with `Django`, `HTML`, `BootStrap`
   
   <img align="center" alt="NEDI" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/nedi.png"/>
 
   👉🏻 Site here: [NEDI](https://nedi.pythonanywhere.com/)
-- **[JobShop]()** \
+- **[JobShop](https://nedi.pythonanywhere.com/jobshop/)** \
 As part of NEDI, we felt that our students needed something to expand their opportunities and so we decided to organize the 1st edition of the DEISI Jobshop. A job fair dedicated to the areas of Computer Science.
 
   I also developed a website for this event. \
@@ -126,7 +126,7 @@ As part of NEDI, we felt that our students needed something to expand their oppo
   <img align="center" alt="NEDI" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/jobshop.png"/>
 
   👉🏻 Site here: [JobShop](https://nedi.pythonanywhere.com/jobshop/)
-- **[TecWeb - Innovation Training and Lecture Week]()** \
+- **[TecWeb - Innovation Training and Lecture Week](https://tecweb.ulusofona.pt/)** \
 At the request of Professor Rui Ribeiro from the University, I developed an application for the annual Tecweb event. An event that brings together all the students to attend workshops and lectures on innovative topics from the world of technology. With the participation of several leading technology companies in Portugal.
 
   The application consists of managing registrations and enrolments for sessions at the event, using integrated Google login and providing an easy interface for students to use.
@@ -137,7 +137,7 @@ At the request of Professor Rui Ribeiro from the University, I developed an appl
   <img alt="Tecweb1" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tecweb-1.png"/>
   <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tecweb2.png"/>
 
-  👉🏻 Site here: [Tecweb](https://tecweb.ulusofona.pt/about/)
+  👉🏻 Site here: [Tecweb](https://tecweb.ulusofona.pt/)
 
 ---
 
@@ -183,7 +183,7 @@ Project developed within the scope of Programming Languages 2 course. This was a
 
   <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/deisi-chess.png"/>
 
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/StarWarsChess) |
+  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/StarWarsChess) | [Youtube Video](https://www.youtube.com/watch?v=5nXnG-uezm8)
 
 - **[Chess Recognition (PI)](https://github.com/RodrigoDias3/ChessIdentifier)** \
 In the Image Processing course we developed an algorithm that identifies a chessboard from an image. It identifies the pieces and their positions on the board.
