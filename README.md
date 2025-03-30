@@ -70,13 +70,32 @@ Time-Line: 2024-Now
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://th.bing.com/th/id/OIP.R_kZkEgTJE_RHqNoOVAe4AHaHc?w=2039&h=2048&rs=1&pid=ImgDetMain" style="border-radius: 50%; margin-right: 10px;"/>](https://www.vodafone.pt/)
 
 **Summer Intern** \
-[**DEISI**](https://www.vodafone.pt/) • Full-time \
+[**Vodafone**](https://www.vodafone.pt/) • Full-time \
 
 Technology & Skills: `Spring Boot`, `Java`, `MongoDB`, `Jira`, `Team Work`\
 Time-Line: 2024 (2 months)
 <br/>
 
 ## **✏️ Workshops** 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQEqT-rGhPLTRw/company-logo_200_200/company-logo_200_200/0/1687518020606/claranetportugal_logo?e=1749081600&v=beta&t=h8GHZLmpQnBcD0b235bKoqe_A_6vXNldBxr40EJwKQA" style="margin-right: 10px; border-radius: 50%;"/>](https://www.claranet.com/pt/)
+
+**Segurança e Informação** \
+[**Claranet**](https://www.claranet.com/pt/)
+
+Technology & Skills: `ISO 27001`, `NES2`, `DORA`\
+Time-Line: 2025 (2 days)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQFUYZwn2xRVEQ/company-logo_200_200/company-logo_200_200/0/1630637182140/innowave_technologies_logo?e=1749081600&v=beta&t=MctNTDiEbenZ7pzd3O2bHAE6wyhxN4OAenFYZBfiEFA" style="margin-right: 10px; border-radius: 50%;"/>](https://innowave.tech/)
+
+**Testes Automáticos** \
+[**Innowave**](https://innowave.tech/)
+
+Technology & Skills: `Katalon Studio`\
+Time-Line: 2025 (1 day)
+<br/>
+
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d1fdloi71mui9q.cloudfront.net/JNNU2iyCSi6e4JY7m0TV_ZtgpjUJkW6EreVUD" style="margin-right: 10px; border-radius: 50%;"/>](https://magmastudio.pt/)
 
 **Talent BootCamp** \
