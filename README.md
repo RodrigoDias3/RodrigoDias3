@@ -1,281 +1,230 @@
-# **Rodrigo Dias** 👨‍💻  
-**Comuncation Team Leader @Nedi | Ambassador @Magma Studio | Head of Robotics Departement @Nedi**
+# **Rodrigo Dias** 👨‍💻
 
-**Software Developer | Backend Specialist | Tech Enthusiast**  
+**Software Engineer @ Vodafone | Communication Team Leader @ NEDI | Ambassador @ Magma Studio**
 
-🌍 Lisbon, Portugal | 📩 rodrigo.dias.2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias3/)  
+**Backend Engineer | Delivery & Operations Lead | Tech Enthusiast**
 
----
-
-## **👋 About Me**  
-I’m a final-year **Computer Engineering** student at **ULHT** with a strong focus on **backend development**. My experience spans multiple technologies, including **Java, Spring Boot, Python, and database management**. I thrive in **team environments**, having led communication teams in student organizations and participated in industry workshops.  
-
-I’m passionate about **problem-solving, software architecture, and developing scalable solutions**. Open to new challenges and eager to collaborate! 🚀  
+🌍 Lisbon, Portugal | 📩 rodrigo.dias.2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias3/) | 💻 [GitHub](https://github.com/RodrigoDias3)
 
 ---
 
-## **🛠 Tech Stack**  
-- 💻 **Programming Languages:** 
-  - Java
-  - Kotlin
-  - C
-  - Python
-  - Dart
-  - JavaScript
-- ⚙️ **Frameworks & Tools:** 
-  - Spring Boot
-  - Django 
-  - GitHub
-  - Jira 
-  - BootStrap 
-  - Thymeleaf 
-  - Azure DevOps 
-  - OutSystems 
-  - DataDog 
-  - Jenkins  
-- 🗄 **Databases:** 
-  - MongoDB
-  - MySQL  
+## **👋 About Me**
+
+I'm a **Computer Engineer** (16/20) currently pursuing an **MSc in Data Science & Advanced Analytics** (Business Analytics) at **NOVA IMS**. Over two years at **Vodafone** I progressed from intern to Software Engineer within a core backend team, taking ownership of system migrations, an EU-regulatory delivery, and a department-wide process fix used by multiple teams.
+
+I thrive in environments where I can own outcomes end-to-end, not just execute tasks. Whether that's leading a migration project, fixing a broken release process for an entire department, or leading communication teams in student organizations.
+
+Passionate about **problem-solving, backend architecture, and turning messy processes into ones that actually work**. Open to new challenges, especially ones where I get to lead. 🚀
+
 ---
 
-## **💼 Experience** 
+## **🛠 Tech Stack**
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d1fdloi71mui9q.cloudfront.net/JNNU2iyCSi6e4JY7m0TV_ZtgpjUJkW6EreVUD" style="margin-right: 10px; border-radius: 50%;"/>](https://magmastudio.pt/)
+- 💻 **Programming Languages:**
+  Java · Kotlin · Python · C · Dart · JavaScript
+- ⚙️ **Frameworks & Tools:**
+  Spring Boot · Django · BootStrap · Thymeleaf · OutSystems · Git / GitHub · Jira · Azure DevOps · DataDog · Jenkins
+- 🗄 **Databases & Infra:**
+  MongoDB · MySQL · AWS · GCP · Terraform
 
-**Ambassador** \
-[**Magma Studio**](https://magmastudio.pt/) • Full-time \
+---
 
-Technology & Skills: `LinkedIn`, `Comunication`, `Public Relations`\
-Time-Line: 2025-Now
+## **💼 Experience**
+
+**Software Engineer** \
+**[Vodafone](https://www.vodafone.pt/)** • DxL Team, Digital Dept. • Full-time \
+Feb 2026 – Sep 2026
+
+Led "Identification of End Users," a new EU-mandated customer-identification journey for prepaid customers. Delivered 2 weeks ahead of schedule. Led "Estrela 2.0," a core enterprise systems migration at the microservices layer. Authored and presented a department-wide Git branch-management guideline, replacing an ad-hoc setup that was blocking multiple teams from testing in parallel. Mentored a full-stack developer on backend best practices.
+
+`Java` `Spring Boot` `Microservices` `Git` `Release Management` `Mentoring`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nedi.pythonanywhere.com/static/portefolio/imgs/logo.png" style="margin-right: 10px; border-radius: 50%;"/>](https://nedi.pythonanywhere.com/)
+**Software Engineer Intern** \
+**[Vodafone](https://www.vodafone.pt/)** • DxL Team, Digital Dept. • Full-time \
+Aug 2025 – Jan 2026
 
-**Comunication Team Leader** \
-[**NEDI**](https://nedi.pythonanywhere.com/) • Full-time \
+Provided production support and release management for the DxL team across multiple other teams' projects. Built and maintained microservices, and implemented logging, observability, and error-handling improvements. Promoted mid-internship to lead "Estrela," a migration of core company services.
 
-Technology & Skills: `Django`, `Site Management`, `Comunication`, `Public Relations`, `Events`\
-Time-Line: 2024-Now
+`Java` `Spring Boot` `MongoDB` `Observability` `Release Management`
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nedi.pythonanywhere.com/static/portefolio/imgs/deisi.jpeg" style="margin-right: 10px;border-radius: 50%;"/>](https://informatica.ulusofona.pt/)
-
-**Comunication Team** \
-[**DEISI**](https://informatica.ulusofona.pt/) • Full-time \
-
-Technology & Skills: `Django`, `WordPress`, `Site Management`, `Comunication`\
-Time-Line: 2024-Now
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://th.bing.com/th/id/OIP.R_kZkEgTJE_RHqNoOVAe4AHaHc?w=2039&h=2048&rs=1&pid=ImgDetMain" style="border-radius: 50%; margin-right: 10px;"/>](https://www.vodafone.pt/)
 
 **Summer Intern** \
-[**Vodafone**](https://www.vodafone.pt/) • Full-time \
+**[Vodafone](https://www.vodafone.pt/)** • DxL Team, Digital Dept. • Full-time \
+Jul 2024 – Aug 2024 (2 months)
 
-Technology & Skills: `Spring Boot`, `Java`, `MongoDB`, `Jira`, `Team Work`\
-Time-Line: 2024 (2 months)
+Contributed to a backend microservices migration project as part of the DxL team, gaining first exposure to Vodafone's engineering standards and release process.
+
+`Spring Boot` `Java` `MongoDB` `Jira` `Team Work`
 <br/>
 
-## **✏️ Workshops** 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQEqT-rGhPLTRw/company-logo_200_200/company-logo_200_200/0/1687518020606/claranetportugal_logo?e=1749081600&v=beta&t=h8GHZLmpQnBcD0b235bKoqe_A_6vXNldBxr40EJwKQA" style="margin-right: 10px; border-radius: 50%;"/>](https://www.claranet.com/pt/)
+**Ambassador** \
+**[Magma Studio](https://magmastudio.pt/)** • Full-time \
+2024 – 2025
 
-**Segurança e Informação** \
-[**Claranet**](https://www.claranet.com/pt/)
-
-Technology & Skills: `ISO 27001`, `NES2`, `DORA`\
-Time-Line: 2025 (2 days)
+`LinkedIn` `Communication` `Public Relations`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQFUYZwn2xRVEQ/company-logo_200_200/company-logo_200_200/0/1630637182140/innowave_technologies_logo?e=1749081600&v=beta&t=MctNTDiEbenZ7pzd3O2bHAE6wyhxN4OAenFYZBfiEFA" style="margin-right: 10px; border-radius: 50%;"/>](https://innowave.tech/)
+**Communication Team Leader** \
+**[NEDI](https://nedi.pythonanywhere.com/)** • Full-time \
+2024 – 2025
 
-**Testes Automáticos** \
-[**Innowave**](https://innowave.tech/)
-
-Technology & Skills: `Katalon Studio`\
-Time-Line: 2025 (1 day)
+`Django` `Site Management` `Communication` `Public Relations` `Events`
 <br/>
 
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d1fdloi71mui9q.cloudfront.net/JNNU2iyCSi6e4JY7m0TV_ZtgpjUJkW6EreVUD" style="margin-right: 10px; border-radius: 50%;"/>](https://magmastudio.pt/)
-
-**Talent BootCamp** \
-[**Magma Studio**](https://magmastudio.pt/)
-
-Technology & Skills: `CV`, `Comunication`\
-Time-Line: 2024 (2 days)
+**Head of Robotics Department** \
+**NEDI** • Full-time \
+2024 – 2025
 <br/>
 
+**Communication Team** \
+**[DEISI](https://informatica.ulusofona.pt/)** • Full-time \
+2024 – 2025
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQErzXWSFkn9tQ/company-logo_100_100/company-logo_100_100/0/1663664110809/cgi_logo?e=1749686400&v=beta&t=5tM7s7P9hQMqcJTNMJPNp2-5fvQJL6ICydJJkJdosAs" style="border-radius: 50%; margin-right: 10px;"/>](https://www.cgi.com/portugal/pt-pt)
-
-**Java & Spring Boot Workshop** \
-[**CGI Portugal**](https://www.cgi.com/portugal/pt-pt) 
-
-Technology & Skills: `Spring Boot`, `Java`, `RESTful APIs`, `API integration` \
-Time-Line: 2024 (1 week)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4E0BAQFAUPTkiqMqqA/company-logo_200_200/company-logo_200_200/0/1685646588896/outsystems_logo?e=1749686400&v=beta&t=jOVkKq0ZAFD-YwJHF6mn8NQL4cPV6_CYsQsCiZosb20" style="border-radius: 50%; margin-right: 10px;"/>](https://www.outsystems.com/)
-
-**Hands-on Workshop** \
-[**OutSystems**](https://www.outsystems.com/) 
-
-Technology & Skills: `OutSystems`, `App development`, `Data Base`\
-Time-Line: 2024 (1 week)
+`Django` `WordPress` `Site Management` `Communication`
 <br/>
 
 ---
 
-## **📌 Projects**  
+## **✏️ Workshops**
 
-### **🔹 Extra-Curricular Projects**  
-- **[NEDI - Lusófona University Computer Science Department Student Group](https://nedi.pythonanywhere.com/)** \
-  Leading the Communications team, I thought I'd develop a website that would give our group exposure. \
-  Developed with `Django`, `HTML`, `BootStrap`
-  
-  <img align="center" alt="NEDI" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/nedi.png"/>
+- **Information Security**, [Claranet](https://www.claranet.com/pt/) · `ISO 27001` `NIS2` `DORA` · 2025 (2 days)
+- **Automated Testing**, [Innowave](https://innowave.tech/) · `Katalon Studio` · 2025 (1 day)
+- **Talent Bootcamp**, [Magma Studio](https://magmastudio.pt/) · `CV` `Communication` · 2024 (2 days)
+- **Java & Spring Boot Workshop**, [CGI Portugal](https://www.cgi.com/portugal/pt-pt) · `Spring Boot` `Java` `RESTful APIs` `API Integration` · 2024 (1 week)
+- **Hands-on Workshop**, [OutSystems](https://www.outsystems.com/) · `OutSystems` `App Development` `Database` · 2024 (1 week)
 
-  👉🏻 Site here: [NEDI](https://nedi.pythonanywhere.com/)
+---
+
+## **📌 Projects**
+
+### **🔹 Extra-Curricular Projects**
+
+- **[NEDI – Lusófona University Computer Science Department Student Group](https://nedi.pythonanywhere.com/)** \
+  Leading the Communications team, I built a website to give our group more exposure. \
+  Built with `Django`, `HTML`, `BootStrap`
+
+  <img align="center" alt="NEDI" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/nedi.png"/>
+
+  👉🏻 [Visit site](https://nedi.pythonanywhere.com/)
+
 - **[JobShop](https://nedi.pythonanywhere.com/jobshop/)** \
-As part of NEDI, we felt that our students needed something to expand their opportunities and so we decided to organize the 1st edition of the DEISI Jobshop. A job fair dedicated to the areas of Computer Science.
+  As part of NEDI, we organized the 1st edition of the DEISI Jobshop, a job fair for Computer Science students, and I built the website for it. \
+  Built with `Django`, `HTML`, `BootStrap`
 
-  I also developed a website for this event. \
-  Developed with `Django`, `HTML`, `BootStrap`
-  
-  <img align="center" alt="NEDI" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/jobshop.png"/>
+  <img align="center" alt="JobShop" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/jobshop.png"/>
 
-  👉🏻 Site here: [JobShop](https://nedi.pythonanywhere.com/jobshop/)
-- **[TecWeb - Innovation Training and Lecture Week](https://tecweb.ulusofona.pt/)** \
-At the request of Professor Rui Ribeiro from the University, I developed an application for the annual Tecweb event. An event that brings together all the students to attend workshops and lectures on innovative topics from the world of technology. With the participation of several leading technology companies in Portugal.
+  👉🏻 [Visit site](https://nedi.pythonanywhere.com/jobshop/)
 
-  The application consists of managing registrations and enrolments for sessions at the event, using integrated Google login and providing an easy interface for students to use.
+- **[TecWeb – Innovation Training and Lecture Week](https://tecweb.ulusofona.pt/)** \
+  Built at the request of a university professor for the annual TecWeb event, which brings students together for workshops and lectures with leading Portuguese tech companies. Handles registrations, session enrollment (with Google login), and exposes an API for participating companies to extract data. \
+  Built with `Django`, `HTML`, `BootStrap`
 
-  It also provides an API to extract data for participating companies. \
-  Developed with `Django`, `HTML`, `BootStrap`
+  <img alt="Tecweb1" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/tecweb-1.png"/>
+  <img alt="Tecweb2" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/tecweb2.png"/>
 
-  <img alt="Tecweb1" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tecweb-1.png"/>
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tecweb2.png"/>
-
-  👉🏻 Site here: [Tecweb](https://tecweb.ulusofona.pt/)
+  👉🏻 [Visit site](https://tecweb.ulusofona.pt/)
 
 ---
 
-### **💡 Personal Projects**  
+### **💡 Personal Projects**
+
 - **[BlackJack](https://github.com/RodrigoDias3/BlackJack)** \
-A digital version of the classic card game with enhanced gameplay mechanics.  \
-Project developed with `HTML`, `CSS`, `JavaScript`.
+  A digital version of the classic card game with enhanced gameplay mechanics. \
+  Built with `HTML`, `CSS`, `JavaScript`
 
-  <img alt="BlackJack" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/blackjack.png"/>
+  <img alt="BlackJack" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/blackjack.png"/>
 
-  👉🏻 Explore here: **[Site](https://rodrigodias3.github.io/BlackJack/)** | **[Repository](https://github.com/RodrigoDias3/BlackJack)**
+  👉🏻 [Site](https://rodrigodias3.github.io/BlackJack/) | [Repository](https://github.com/RodrigoDias3/BlackJack)
+
 - **[FinanceTier](https://github.com/RodrigoDias3/FinanceTier)** \
- Faced with a problem of how to manage my expenses and my money, I started to develop an application that would manage my transactions and in the end I also ended up making salary calculations according to the tax tables in Portugal as well as report charts. \
- Project developed with `Spring Boot`, `MySQL`, `Java`, `JavaScript` ,`BoorStrap`.
+  Built to solve my own problem of managing expenses. Tracks transactions, calculates salary according to Portuguese tax tables, and generates report charts. \
+  Built with `Spring Boot`, `MySQL`, `Java`, `JavaScript`, `BootStrap`
 
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/financetier1.png"/>
+  <img alt="FinanceTier" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/financetier1.png"/>
 
-  👉🏻 Explore here: **[Repository](https://github.com/RodrigoDias3/FinanceTier)**
-- **[Movie DB]()** \
- Movie API and frontend application that shows movies in a catalog. \
- Project developed with `Spring Boot`, `Java`, `MongoDB`, `React`, `JavaScript`.
+  👉🏻 [Repository](https://github.com/RodrigoDias3/FinanceTier)
 
-  👉🏻 Explore here: **[Repository]()**
+- **Movie DB** \
+  A movie API and frontend catalog application. \
+  Built with `Spring Boot`, `Java`, `MongoDB`, `React`, `JavaScript` \
+  *(repo private / link coming soon)*
 
 ---
 
-### **🎓 University Projects**  
-- **[Skills Profile (TFC)](https://github.com/RodrigoDias3/PerfilCompetencias)** \
-End-of-course project, in collaboration with the Human Resources department. 
+### **🎓 University Projects**
 
-  Application to identify competencies in the college's students and teachers. Integrating faculty login, **LLM** for **Natural Language Processing**. \
-  Project developed with `Spring Boot` and `Kotlin`.
+- **[Skills Profile (TFC: Final Course Project)](https://github.com/RodrigoDias3/PerfilCompetencias)** \
+  End-of-course project built in collaboration with the university's HR department, to identify competencies in students and teachers. Integrates faculty login and an **LLM** for natural language processing. \
+  Built with `Spring Boot`, `Kotlin`
 
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/tfc.png"/>
+  <img alt="TFC" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/tfc.png"/>
 
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/PerfilCompetencias)
+  👉🏻 [Repository](https://github.com/RodrigoDias3/PerfilCompetencias)
 
 - **[DEISI Chess (LP2)](https://github.com/RodrigoDias3/StarWarsChess)** \
-Project developed within the scope of Programming Languages 2 course. This was a special project for the final grade of 19.9/20.
+  Built for the Programming Languages 2 course, earning a final grade of 19.9/20. A **Star Wars**–themed chess game with a graphical interface, custom move logic, and special pieces. \
+  Built with `Java`, Object-Oriented Programming
 
-  A **Chess Game** with a graphic interface, the theme was **StarWars**. With proposed moves and **Special Pieces** as part of the creativity module. \
-  Project developed in `Java` using `Object Oriented Programming`.
+  <img alt="DEISI Chess" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/deisi-chess.png"/>
 
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/deisi-chess.png"/>
+  👉🏻 [Repository](https://github.com/RodrigoDias3/StarWarsChess) | [YouTube demo](https://www.youtube.com/watch?v=5nXnG-uezm8)
 
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/StarWarsChess) | [Youtube Video](https://www.youtube.com/watch?v=5nXnG-uezm8)
+- **[Chess Recognition (PI: Image Processing)](https://github.com/RodrigoDias3/ChessIdentifier)** \
+  An algorithm that identifies a chessboard from an image, along with piece positions, plus a graphical interface to visualize results. \
+  Built with `C#`
 
-- **[Chess Recognition (PI)](https://github.com/RodrigoDias3/ChessIdentifier)** \
-In the Image Processing course we developed an algorithm that identifies a chessboard from an image. It identifies the pieces and their positions on the board.
+  <img alt="Chess Recognition" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/imagem.png"/>
 
-  We developed a graphical interface to visualize the results. \
-  Project developed in `C#`.
+  👉🏻 [Repository](https://github.com/RodrigoDias3/ChessIdentifier) | [YouTube demo](https://youtu.be/g9NelrHHkfE)
 
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/imagem.png"/>
+- **[Smart Home (AAC: Advanced Computer Architecture)](https://github.com/RodrigoDias3/Casa_Inteligente)** \
+  A Smart Home prototype combining programming with circuit assembly, sensors, and intelligent mechanisms. \
+  Built with `Arduino`, `C++`
 
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/ChessIdentifier) | [Youtube Video](https://youtu.be/g9NelrHHkfE)
+  <img alt="Smart Home" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/casa.jpg"/>
 
-- **[Smart Home (AAC)](https://github.com/RodrigoDias3/Casa_Inteligente)** \
-In the Advanced Computer Architecture course, we proposed and developed a prototype of a **Smart Home**.
+  👉🏻 [Repository](https://github.com/RodrigoDias3/Casa_Inteligente) | [YouTube demo](https://youtu.be/BLi2EhJKlts)
 
-  Combining **programming** techniques and the **assembly of circuits** integrating sensors and intelligent mechanisms. \
-  Project developed with `Arduino` and `C++`
+- **Spring Elsa (CD: Distributed Computing)** \
+  A hospital-clinic reservation manager with a backend server and web services communicating with a Spring Boot frontend and a SOAP client. Included an "Elsa" chatbot that recommends the right clinic based on symptoms, plus Google Cloud–based feedback analysis. \
+  Built with `Java`, `Spring Boot`, `HTML`, `BootStrap`, `SOAP` \
+  *(repo private / link coming soon)*
 
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/casa.jpg"/>
+  <img alt="Spring Elsa" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/elsa.png"/>
 
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Casa_Inteligente) | [Youtube Video](https://youtu.be/BLi2EhJKlts)
+- **Spotily / Weather Radar (PW: Web Programming)** \
+  Two favorites from a Web Programming course: **Spotily**, a Spotify-inspired music and album management app with an admin panel, and **Weather Radar**, a color-coded weather viewer for Portugal built on a live API. \
+  Built with `HTML`, `CSS`, `JavaScript`, `Django`, PythonAnywhere
 
-- **[Spring Elsa (CD)]()** \
-Project developed as part of the Distributed Computing course.
+  <img alt="Spotily" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/spotily.png"/>
+  <img alt="Weather Radar" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/meteo.png"/>
 
-  Application that manages reservations in hospital clinics. \
-  In this project we implemented a **Backend Server** and **WebServices** to communicate with our **Spring Boot Frontend Application** and **SOAP Client**.
+  👉🏻 [Spotily](https://a22205897.pythonanywhere.com/bandas/) | [Weather Radar](https://a22205897.pythonanywhere.com/meteo/)
 
-  We implemented a **Chat Bot** named Elsa that showed us the most appropriate clinic depending on our symptoms. And we used **Google Cloud Service** to implement a method of evaluating our application according to user comments. \
-  Project developed with `Java`, `Spring Boot`, `HTML`, `BootStrap`, `SOAP`.
+- **[Tent Game (FP: Fundamentals of Programming)](https://github.com/RodrigoDias3/Jogo_Das_Tendas)** \
+  My first-ever programming project: a puzzle game where tiles must be placed on a board following specific rules. \
+  Built with `Kotlin`
 
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/elsa.png"/>
+  <img align="center" alt="Tent Game" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/Jogo_Das_Tendas/main/img2.png"/>
 
-  👉🏻 See more here: [Repository]()
-
-- **[Spotily/Weather (PW)]()** \
-In **Web Programming** we develop several applications. I'd like to highlight these two because they're the ones I liked the most.
-
-  - **Spotily** - Music and album management application, with an attractive interface and an Admin option to manage the database. Inspired by Spotify. \
-    <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/spotily.png"/>
-    👉🏻 See more here: [Site](https://a22205897.pythonanywhere.com/bandas/)
-
-  - **Weather Radar** - Application for viewing Portugal's weather conditions, color-coded according to the weather, with an integrated API. \
-    <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/meteo.png"/>
-    👉🏻 See more here: [Site](https://a22205897.pythonanywhere.com/meteo/)
-
-  Projects developed with `HTML`, `CSS`, `JavaScript`, `Django`, `Python Anywhere`.
-
-- **[Tent Game (FP)](https://github.com/RodrigoDias3/Jogo_Das_Tendas)** \
-My first programming project, developed in the Fundamentals of Programming course in my first year at university.
-
-  A simple but very fun puzzle game, where you have to make sure that all the tiles are placed on the board following certain rules. \
-  Project developed in `Kotlin`.
-
-  <img align="center" alt="NEDI" height="500px" src="https://raw.githubusercontent.com/RodrigoDias3/Jogo_Das_Tendas/refs/heads/main/img2.png"/>
-
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Jogo_Das_Tendas)
+  👉🏻 [Repository](https://github.com/RodrigoDias3/Jogo_Das_Tendas)
 
 - **[Port Manager (LP1)](https://github.com/RodrigoDias3/Gestor_Portos)** \
-This is a project developed as part of the Programming Languages 1 course.
+  An application to manage and monitor maritime port activity: resources, information, and decision support for optimizing operations. \
+  Built with `C`
 
-  The Port Manager is an application designed to assist in the management and monitoring of activities in maritime ports. Through this application, users can view relevant information, manage resources, and make informed decisions to optimize port operations. \
-  Project developed in `C`.
+  <img alt="Port Manager" height="400px" src="https://raw.githubusercontent.com/RodrigoDias3/RodrigoDias3/main/imgs/gestor_portos.png"/>
 
-  <img alt="Tecweb2" height="500px" src="https://github.com/RodrigoDias3/RodrigoDias3/blob/main/imgs/gestor_portos.png"/>
-
-  👉🏻 See more here: [Repository](https://github.com/RodrigoDias3/Gestor_Portos)
+  👉🏻 [Repository](https://github.com/RodrigoDias3/Gestor_Portos)
 
 ---
 
-## **📫 Connect with Me**  
-🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias3/)  
-📧 rodrigo.dias.2004@gmail.com  
+## **📫 Connect with Me**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias3/)
+📧 rodrigo.dias.2004@gmail.com
 
 ---
 
-### ✨ Feel free to explore my repositories and connect! 🚀  
+### ✨ Feel free to explore my repositories and connect! 🚀
