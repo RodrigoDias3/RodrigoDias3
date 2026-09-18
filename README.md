@@ -4,7 +4,7 @@
 
 **Backend Engineer | Delivery & Operations Lead | Tech Enthusiast**
 
-🌍 Lisbon, Portugal | 📩 rodrigo.dias.2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias3/) | 💻 [GitHub](https://github.com/RodrigoDias3)
+🌍 Lisbon, Portugal | 📩 rodrigo.dias.2004@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias3/)
 
 ---
 
